@@ -18,5 +18,12 @@ Neste projeto, vamos calcular as principais métricas para avaliação de modelo
 - Especificidade
 - Precisão
 - F-score
+</br></br>
+- [Notebok com cálculo das métricas](notebooks/metricas-avaliacao-aprendizado.ipynb)
 
-[Notebok com cálculo das métricas](notebooks/metricas-avaliacao-aprendizado.ipynb)
+
+## Transfer learning / Fine tunning
+
+Transfer learning / fine-tunning utilizando o modelo [VGG16](https://arxiv.org/pdf/1409.1556.pdf), realizado com o objetivo de classificar imagens de **Maradona** e **Pelé**.
+
+- [Notebook](notebooks/transfer_learning.ipynb)

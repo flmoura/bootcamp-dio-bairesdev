@@ -21,9 +21,21 @@ Neste projeto, vamos calcular as principais métricas para avaliação de modelo
 </br></br>
 - [Notebok com cálculo das métricas](notebooks/metricas-avaliacao-aprendizado.ipynb)
 
-
 ## Transfer learning / Fine tunning
 
 Transfer learning / fine-tunning utilizando o modelo [VGG16](https://arxiv.org/pdf/1409.1556.pdf), realizado com o objetivo de classificar imagens de **Maradona** e **Pelé**.
 
 - [Notebook](notebooks/transfer_learning.ipynb)
+
+## Criação de Uma Base de Dados e Treinamento da Rede YOLO
+
+Treinamento customizado da Rede YOLOv3 com a detecção das seguintes classes:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+</br></br>
+- [Notebook de treinamento customizado](darknet/YOLOv3_custom_object_training.ipynb)

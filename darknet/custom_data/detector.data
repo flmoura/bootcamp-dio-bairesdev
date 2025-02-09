@@ -1,0 +1,5 @@
+classes=7
+train=/content/gdrive/MyDrive/darknet/custom_data/train.txt
+valid=/content/gdrive/MyDrive/darknet/custom_data/test.txt
+names=/content/gdrive/MyDrive/darknet/custom_data/custom.names
+backup=/content/gdrive/MyDrive/darknet/custom_data/backup

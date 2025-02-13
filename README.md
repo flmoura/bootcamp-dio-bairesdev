@@ -46,7 +46,7 @@ Treinamento customizado da Rede YOLOv3 para reconhecimento facial, com detecçã
  - [Notebook de treinamento](darknet_face_detection/YOLOv3_custom_object_training.ipynb)
  - [Notebook de reconhecimento facial com webcam](darknet_face_detection/yolov3_webcam.ipynb)
 
-> O dataset e a rede pré-treinada não foram disponibilizados neste repositório. 
+> O dataset e a rede treinada não foram disponibilizados neste repositório. 
 
 Exemplo do reconhecimento facial:
 ![Reconhecimento facil e classificação com a Rede YOLOv3](darknet_face_detection/custom_data/images/photo.jpg "Reconhecimento facil e classificação com a Rede YOLOv3")

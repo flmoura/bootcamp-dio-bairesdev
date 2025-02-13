@@ -41,7 +41,7 @@ Treinamento customizado da Rede YOLOv3 com a detecção das seguintes classes:
 - [Notebook de treinamento customizado](darknet/YOLOv3_custom_object_training.ipynb)
 
 ## Sistema de Reconhecimento Facial
-Treinamento customizado da Rede YOLOv3 para reconhecimento facial, com detecção e classificação da imagem obitida através da webcam.
+Treinamento customizado da Rede YOLOv3 para reconhecimento facial, com detecção e classificação da imagem obtida através da webcam.
 
  - [Notebook de treinamento](darknet_face_detection/YOLOv3_custom_object_training.ipynb)
  - [Notebook de reconhecimento facial com webcam](darknet_face_detection/yolov3_webcam.ipynb)

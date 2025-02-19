@@ -50,3 +50,7 @@ Treinamento customizado da Rede YOLOv3 para reconhecimento facial, com detecçã
 
 Exemplo do reconhecimento facial:
 ![Reconhecimento facil e classificação com a Rede YOLOv3](darknet_face_detection/custom_data/images/photo.jpg "Reconhecimento facil e classificação com a Rede YOLOv3")
+
+## Sistema de Recomendação por Similaridade de Imagens
+
+- [Notebook](notebooks/sistema_recomendcao.ipynb)

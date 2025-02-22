@@ -54,3 +54,8 @@ Exemplo do reconhecimento facial:
 ## Sistema de Recomendação por Similaridade de Imagens
 
 - [Notebook](notebooks/sistema_recomendcao.ipynb)
+
+## Sistema de Assistência Virtual
+
+- [Texto para Voz](notebooks/text_to_speech.ipynb)
+- [Reconhecimento de Voz](notebooks/speech_to_text.ipynb)
